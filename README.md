@@ -8,3 +8,9 @@ designed by me.This project was made keeping the objective in mind that if a per
 certain features then he/she can see the price of the house in that locality depending on the features mentioned by him/her  irrespective
 of wherever they are whether be at home or travelling to some place.  Just by using their respective electronic devices such as smartphones
 or laptops. They can get the required predicted price for the house they are interested in.
+
+This is the User Interface of my project in this a user just need to enter some values of characteristics of the house and accordingly
+the price of the house will be projected to the user, just by clicking "Predict" button.
+
+![image](https://user-images.githubusercontent.com/69504019/156388026-1a0c0c49-19ce-484a-b289-5d14a3b05c6c.png)
+
