@@ -1,4 +1,4 @@
-# [House-Price-Predictor-with-GUI] (https://house-price-predictor-1.herokuapp.com/)
+# [House-Price-Predictor-with-GUI](https://house-price-predictor-1.herokuapp.com/)
 This project mainly focuses on predicting the house prices taking into account varying characteristics of the house like bathroom floors,
 basement area,no. of floors, lot area, pin code etc. As all these features play a significant role in valuation of a house.  So , I envisioned 
 an idea of creating a graphical user interface which was integrated with my machine learning model that can predict the house price. Since
